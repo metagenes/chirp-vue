@@ -1,0 +1,10 @@
+{
+    "extends": [
+      "plugin:vue/essential",
+      "@vue/eslint-config-standard"
+    ],
+    "rules": {
+        "vue/multi-word-component-names": "off"
+      // Add or customize linting rules here
+    }
+  }
